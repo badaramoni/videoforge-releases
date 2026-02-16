@@ -82,8 +82,8 @@ git commit -m "Initial release: VideoForge v1.0.0"
 # Public repository
 # Don't initialize with README
 
-# 4. Push to GitHub (replace YOUR_USERNAME)
-git remote add origin https://github.com/YOUR_USERNAME/videoforge-releases.git
+# 4. Push to GitHub (replace badaramoni)
+git remote add origin https://github.com/badaramoni/videoforge-releases.git
 git branch -M main
 git push -u origin main
 
@@ -272,7 +272,7 @@ cd /Users/badaramoniavinash/Desktop/Project/videoforge-releases
 git init
 git add .
 git commit -m "Initial release: VideoForge v1.0.0"
-git remote add origin https://github.com/YOUR_USERNAME/videoforge-releases.git
+git remote add origin https://github.com/badaramoni/videoforge-releases.git
 git push -u origin main
 ```
 
@@ -289,7 +289,7 @@ git push -u origin main
 **Hacker News:**
 ```
 Title: VideoForge – 10x Faster Video Encoding with GPU Acceleration
-URL: https://github.com/YOUR_USERNAME/videoforge-releases
+URL: https://github.com/badaramoni/videoforge-releases
 ```
 
 **Reddit r/rust:**

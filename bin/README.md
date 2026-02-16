@@ -75,4 +75,4 @@ videoforge --version
 
 Latest version: v1.0.0
 
-Download latest: https://github.com/yourusername/videoforge-releases/releases/latest
+Download latest: https://github.com/badaramoni/videoforge-releases/releases/latest

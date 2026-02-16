@@ -87,7 +87,7 @@ cd /Users/badaramoniavinash/Desktop/Project/videoforge-releases
 git init
 git add .
 git commit -m "Initial release: VideoForge v1.0.0"
-git remote add origin https://github.com/YOUR_USERNAME/videoforge-releases.git
+git remote add origin https://github.com/badaramoni/videoforge-releases.git
 git branch -M main
 git push -u origin main
 ```

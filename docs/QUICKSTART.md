@@ -8,7 +8,7 @@ Get started with VideoForge in under 5 minutes!
 
 ```bash
 # Download the binary
-curl -L https://github.com/yourusername/videoforge-releases/releases/latest/download/videoforge-macos -o videoforge
+curl -L https://github.com/badaramoni/videoforge-releases/releases/latest/download/videoforge-macos -o videoforge
 
 # Make it executable
 chmod +x videoforge
@@ -22,7 +22,7 @@ sudo mv videoforge /usr/local/bin/
 
 ### Windows
 
-1. Download `videoforge-windows.exe` from [Releases](https://github.com/yourusername/videoforge-releases/releases)
+1. Download `videoforge-windows.exe` from [Releases](https://github.com/badaramoni/videoforge-releases/releases)
 2. Open PowerShell in the download folder
 3. Run: `.\videoforge-windows.exe --help`
 4. (Optional) Add to PATH for global access
@@ -31,7 +31,7 @@ sudo mv videoforge /usr/local/bin/
 
 ```bash
 # Download the binary
-wget https://github.com/yourusername/videoforge-releases/releases/latest/download/videoforge-linux
+wget https://github.com/badaramoni/videoforge-releases/releases/latest/download/videoforge-linux
 
 # Make it executable
 chmod +x videoforge-linux
@@ -260,7 +260,7 @@ videoforge encode --distributed -i video.mp4 -o output.mp4 --workers 6
 
 1. **Read the full docs**: [README.md](../README.md)
 2. **Check examples**: [examples/](../examples/)
-3. **Report issues**: [GitHub Issues](https://github.com/yourusername/videoforge-releases/issues)
+3. **Report issues**: [GitHub Issues](https://github.com/badaramoni/videoforge-releases/issues)
 
 ## Quick Reference
 
@@ -289,4 +289,4 @@ videoforge encode --help
 
 **VideoForge** - 10x faster video encoding. Zero dependencies. Production ready.
 
-Need help? Open an issue on [GitHub](https://github.com/yourusername/videoforge-releases/issues)
+Need help? Open an issue on [GitHub](https://github.com/badaramoni/videoforge-releases/issues)

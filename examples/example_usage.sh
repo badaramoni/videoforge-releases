@@ -80,4 +80,4 @@ echo "videoforge status"
 echo ""
 
 echo "💡 Tip: Run these commands with your own video files!"
-echo "📖 For more examples, see: https://github.com/yourusername/videoforge-releases"
+echo "📖 For more examples, see: https://github.com/badaramoni/videoforge-releases"

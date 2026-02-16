@@ -35,8 +35,8 @@ git commit -m "Initial release: VideoForge v1.0.0
 ## Step 3: Connect to GitHub
 
 ```bash
-# Add remote (replace 'yourusername' with your GitHub username)
-git remote add origin https://github.com/yourusername/videoforge-releases.git
+# Add remote (replace 'badaramoni' with your GitHub username)
+git remote add origin https://github.com/badaramoni/videoforge-releases.git
 
 # Push to GitHub
 git branch -M main
@@ -47,7 +47,7 @@ git push -u origin main
 
 ### Option A: Using GitHub Web Interface
 
-1. Go to your repository: `https://github.com/yourusername/videoforge-releases`
+1. Go to your repository: `https://github.com/badaramoni/videoforge-releases`
 2. Click "Releases" → "Create a new release"
 3. Tag version: `v1.0.0`
 4. Release title: "VideoForge v1.0.0 - 10x Faster Video Encoding"
@@ -125,20 +125,20 @@ After creating the release, update README.md with actual download links:
 ### macOS
 
 \`\`\`bash
-curl -L https://github.com/yourusername/videoforge-releases/releases/download/v1.0.0/videoforge-macos -o videoforge
+curl -L https://github.com/badaramoni/videoforge-releases/releases/download/v1.0.0/videoforge-macos -o videoforge
 chmod +x videoforge
 \`\`\`
 
 ### Windows
 
 \`\`\`powershell
-Invoke-WebRequest -Uri "https://github.com/yourusername/videoforge-releases/releases/download/v1.0.0/videoforge-windows.exe" -OutFile "videoforge.exe"
+Invoke-WebRequest -Uri "https://github.com/badaramoni/videoforge-releases/releases/download/v1.0.0/videoforge-windows.exe" -OutFile "videoforge.exe"
 \`\`\`
 
 ### Linux
 
 \`\`\`bash
-wget https://github.com/yourusername/videoforge-releases/releases/download/v1.0.0/videoforge-linux
+wget https://github.com/badaramoni/videoforge-releases/releases/download/v1.0.0/videoforge-linux
 chmod +x videoforge-linux
 \`\`\`
 ```
@@ -219,7 +219,7 @@ For a nice landing page:
 3. Branch: main, folder: / (root)
 4. Save
 
-GitHub will create a website at: `https://yourusername.github.io/videoforge-releases/`
+GitHub will create a website at: `https://badaramoni.github.io/videoforge-releases/`
 
 ## Step 10: Promote Your Release
 

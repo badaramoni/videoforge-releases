@@ -34,7 +34,7 @@ git add .
 git commit -m "Initial release: VideoForge v1.0.0"
 
 # Replace YOUR_USERNAME with your GitHub username!
-git remote add origin https://github.com/YOUR_USERNAME/videoforge-releases.git
+git remote add origin https://github.com/badaramoni/videoforge-releases.git
 git branch -M main
 git push -u origin main
 ```
@@ -53,7 +53,7 @@ git push -u origin main
 
 ```bash
 # They run this:
-curl -L https://github.com/YOUR_USERNAME/videoforge-releases/releases/download/v1.0.0/videoforge-macos -o videoforge
+curl -L https://github.com/badaramoni/videoforge-releases/releases/download/v1.0.0/videoforge-macos -o videoforge
 chmod +x videoforge
 
 # They get:
@@ -117,7 +117,7 @@ Benchmark: 3-minute 1080p video
 - VideoForge: 7.8s
 - 10x faster!
 
-Download: https://github.com/YOUR_USERNAME/videoforge-releases
+Download: https://github.com/badaramoni/videoforge-releases
 
 Happy to answer questions!
 ```
