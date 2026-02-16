@@ -3,7 +3,7 @@
 **The world's fastest video encoder. 10x faster than FFmpeg.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Windows%20%7C%20Linux-blue)](https://github.com/yourusername/videoforge-releases)
+[![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Windows%20%7C%20Linux-blue)](https://github.com/badaramoni/videoforge-releases)
 
 ## What is VideoForge?
 
@@ -38,7 +38,7 @@ VideoForge is a high-performance video encoder that delivers **10x faster encodi
 
 ```bash
 # Download
-curl -L https://github.com/yourusername/videoforge-releases/releases/latest/download/videoforge-macos -o videoforge
+curl -L https://github.com/badaramoni/videoforge-releases/releases/latest/download/videoforge-macos -o videoforge
 
 # Make executable
 chmod +x videoforge
@@ -51,10 +51,10 @@ sudo mv videoforge /usr/local/bin/
 
 ```powershell
 # Download from releases page
-# https://github.com/yourusername/videoforge-releases/releases
+# https://github.com/badaramoni/videoforge-releases/releases
 
 # Or use PowerShell
-Invoke-WebRequest -Uri "https://github.com/yourusername/videoforge-releases/releases/latest/download/videoforge-windows.exe" -OutFile "videoforge.exe"
+Invoke-WebRequest -Uri "https://github.com/badaramoni/videoforge-releases/releases/latest/download/videoforge-windows.exe" -OutFile "videoforge.exe"
 
 # Add to PATH (optional)
 ```
@@ -63,7 +63,7 @@ Invoke-WebRequest -Uri "https://github.com/yourusername/videoforge-releases/rele
 
 ```bash
 # Download
-wget https://github.com/yourusername/videoforge-releases/releases/latest/download/videoforge-linux
+wget https://github.com/badaramoni/videoforge-releases/releases/latest/download/videoforge-linux
 
 # Make executable
 chmod +x videoforge-linux
@@ -312,8 +312,8 @@ videoforge encode --gpu --input video.mp4 --output output.mp4
 ## Support
 
 - 📖 **Documentation**: [docs/](docs/)
-- 💬 **Issues**: [GitHub Issues](https://github.com/yourusername/videoforge-releases/issues)
-- 📧 **Email**: support@videoforge.dev
+- 💬 **Issues**: [GitHub Issues](https://github.com/badaramoni/videoforge-releases/issues)
+- 📧 **Email**: badaramoni.avinash@gmail.com
 
 ## License
 
