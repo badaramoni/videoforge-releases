@@ -1,0 +1,21 @@
+# Test files
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
+
+# Build artifacts (if any)
+*.o
+*.so
+*.dylib
+*.dll
+*.exe~
